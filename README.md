@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Assets/Icons/hangly-icon-256.png" width="128" alt="AHK KeyChain">
+<img src="Assets/Icons/ahk-keychain-icon.png" width="160" alt="AHK KeyChain Application Icon">
 
 # AHK KeyChain
 
